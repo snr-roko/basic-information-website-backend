@@ -1,0 +1,16 @@
+{
+  "name": "basic-information-website-backend",
+  "version": "1.0.0",
+  "description": "A backend to a basic information website",
+  "main": "index.js",
+  "scripts": {
+    "server": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "nodejs"
+  ],
+  "author": "snr-roko",
+  "license": "MIT"
+}
